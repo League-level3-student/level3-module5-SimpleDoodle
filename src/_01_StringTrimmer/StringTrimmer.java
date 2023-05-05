@@ -19,6 +19,6 @@ public class StringTrimmer {
             }
         // 3. Else you need to remove the last letter from the string,
         //    reduce removesLeft by 1, and then call trimString() 
-
+            
     }
 }
